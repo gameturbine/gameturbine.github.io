@@ -33,11 +33,11 @@
 	
 	/* - NAVIGATION --------------------------------------------------------- */
 	header nav {
-		height: 80px;
+		height: /*80*/40px;
 	}
 	header nav .navigation {
-		height: 80px;
-		width: 240px;
+		height: /*80*/40px;
+		width: /*240*/320px;
 	}
 	header nav .navigation li {
 		padding: 0;
