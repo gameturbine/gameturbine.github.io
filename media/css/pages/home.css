@@ -346,33 +346,33 @@ header .social-media li .youtube:hover {
 
 /*** End covers: data ***/
 
-/*** Bgs covers ***/
+/*** Gt covers ***/
 
-#covers #bgs-1 {
-	background-image: url('./../../../media/gfx/pages/home/data/bgs/bgs-1.jpg');
+#covers #gt-1 {
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-1.jpg');
 }
 
-#covers #bgs-2 {
-	background-image: url('./../../../media/gfx/pages/home/data/bgs/bgs-2.jpg');
+#covers #gt-2 {
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-2.jpg');
 }
 
-#covers #bgs-3 {
-	background-image: url('./../../../media/gfx/pages/home/data/bgs/bgs-3.jpg');
+#covers #gt-3 {
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-3.jpg');
 }
 
-#covers #bgs-4 {
-	background-image: url('./../../../media/gfx/pages/home/data/bgs/bgs-4.jpg');
+#covers #gt-4 {
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-4.jpg');
 }
 
-#covers #bgs-5 {
-	background-image: url('./../../../media/gfx/pages/home/data/bgs/bgs-5.jpg');
+#covers #gt-5 {
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-5.jpg');
 }
 
-#covers #bgs-6 {
-	background-image: url('./../../../media/gfx/pages/home/data/bgs/bgs-6.jpg');
+#covers #gt-6 {
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-6.jpg');
 }
 
-/*** End bgs covers ***/
+/*** End gt covers ***/
 
 /*** Specific covers ***/
 
