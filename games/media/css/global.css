@@ -123,7 +123,7 @@ header .ident {
 	height: 67px;
 	margin: 23px 0 0 30px;
 	overflow: hidden;
-	text-indent: -85px;
+	text-indent: -90px/*-70px*/;
 	width: 67px;
 }
 header nav {
@@ -164,7 +164,7 @@ header .made-in-ident {
 	height: 67px;
 	margin: 23px 5px 0 0;
 	overflow: hidden;
-	text-indent: -155px/*-140px*/;
+	text-indent: -160px/*-140px*/;
 	width: 67px;
 }
 header .divisional {
