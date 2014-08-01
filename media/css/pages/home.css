@@ -349,32 +349,36 @@ header .social-media li .youtube:hover {
 /*** Gt covers ***/
 
 #covers #gt-1 {
-	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-1.jpg');
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-1.png');
 }
 
 #covers #gt-2 {
-	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-2.jpg');
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-2.png');
 }
 
 #covers #gt-3 {
-	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-3.jpg');
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-3.png');
 }
 
 #covers #gt-4 {
-	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-4.jpg');
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-4.png');
 }
 
 #covers #gt-5 {
-	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-5.jpg');
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-5.png');
 }
 
 #covers #gt-6 {
-	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-6.jpg');
+	background-image: url('./../../../media/gfx/pages/home/data/gt/gt-6.png');
 }
 
 /*** End gt covers ***/
 
 /*** Specific covers ***/
+
+#covers #get-ready-for-fun {
+	background-image: url('./../../../media/gfx/pages/home/data/get-ready-for-fun.png');
+}
 
 #covers #epicmickey2 {
 	background-image: url('./../../../media/gfx/pages/home/data/epic-mickey.jpg');
